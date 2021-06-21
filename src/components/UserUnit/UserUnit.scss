@@ -1,0 +1,30 @@
+.UserUnit {
+  margin: 10px;
+
+  width: 250px;
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  border: 1px solid gray;
+  border-radius: 10px;
+  background: rgba($color: #2f90a1, $alpha: 0.5);
+
+  &__infoItem {
+    margin: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0.06em;
+    text-transform: none;
+    text-decoration: none;
+    color: #1F2020;
+  }
+}
+
+@media all and (min-width: 640px) {
+
+}
