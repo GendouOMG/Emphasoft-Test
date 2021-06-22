@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Emphasoft-Test/static/css/main.c2271c47.chunk.css",
+    "main.js": "/Emphasoft-Test/static/js/main.f79d8dbf.chunk.js",
+    "main.js.map": "/Emphasoft-Test/static/js/main.f79d8dbf.chunk.js.map",
+    "runtime-main.js": "/Emphasoft-Test/static/js/runtime-main.e41bbabc.js",
+    "runtime-main.js.map": "/Emphasoft-Test/static/js/runtime-main.e41bbabc.js.map",
+    "static/js/2.787d94a5.chunk.js": "/Emphasoft-Test/static/js/2.787d94a5.chunk.js",
+    "static/js/2.787d94a5.chunk.js.map": "/Emphasoft-Test/static/js/2.787d94a5.chunk.js.map",
+    "static/js/3.4462ccc6.chunk.js": "/Emphasoft-Test/static/js/3.4462ccc6.chunk.js",
+    "static/js/3.4462ccc6.chunk.js.map": "/Emphasoft-Test/static/js/3.4462ccc6.chunk.js.map",
+    "index.html": "/Emphasoft-Test/index.html",
+    "static/css/main.c2271c47.chunk.css.map": "/Emphasoft-Test/static/css/main.c2271c47.chunk.css.map",
+    "static/js/2.787d94a5.chunk.js.LICENSE.txt": "/Emphasoft-Test/static/js/2.787d94a5.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/Emphasoft-Test/static/media/profile.02206170.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e41bbabc.js",
+    "static/js/2.787d94a5.chunk.js",
+    "static/css/main.c2271c47.chunk.css",
+    "static/js/main.f79d8dbf.chunk.js"
+  ]
+}
