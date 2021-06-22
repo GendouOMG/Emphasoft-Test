@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Emphasoft-Test/static/css/main.c2271c47.chunk.css",
-    "main.js": "/Emphasoft-Test/static/js/main.f79d8dbf.chunk.js",
-    "main.js.map": "/Emphasoft-Test/static/js/main.f79d8dbf.chunk.js.map",
+    "main.js": "/Emphasoft-Test/static/js/main.c620da77.chunk.js",
+    "main.js.map": "/Emphasoft-Test/static/js/main.c620da77.chunk.js.map",
     "runtime-main.js": "/Emphasoft-Test/static/js/runtime-main.e41bbabc.js",
     "runtime-main.js.map": "/Emphasoft-Test/static/js/runtime-main.e41bbabc.js.map",
     "static/js/2.787d94a5.chunk.js": "/Emphasoft-Test/static/js/2.787d94a5.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e41bbabc.js",
     "static/js/2.787d94a5.chunk.js",
     "static/css/main.c2271c47.chunk.css",
-    "static/js/main.f79d8dbf.chunk.js"
+    "static/js/main.c620da77.chunk.js"
   ]
 }
